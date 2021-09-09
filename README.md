@@ -3,7 +3,7 @@ Creates Backup for Server
 
 Creates Backup for Server mady by sharpx
 
-HOW TO SETUP First of all you need to run the commands ``npm i discord`` , ``npm i discord-backup`` , ``npm init -y``
+HOW TO SETUP, First of all you need to run the commands ``npm i discord`` , ``npm i discord-backup`` , ``npm init -y``
 
 - 1. To do the configuration open the config.json file and pass the required data!
 
